@@ -8,6 +8,8 @@
         background-position: 50% 50%;
 } */
 
+
+/* the two below classes are built into the plugin to allow features such as unveil effects. Below has a 300ms fade in with a loading gif for percieved page speed. Appears to use the correct placeholder sizes to prevent page from jumping around. To be safe set the img height and width attribute in HTML*/
 .lazyload {
 	opacity: 0;
 }
