@@ -9,13 +9,13 @@
 } */
 
 
-/* the two below classes are built into the plugin to allow features such as unveil effects. Below has a 300ms fade in with a loading gif for percieved page speed. Min height and width set below to avoid page jump*/
+/* the two below classes are built into the plugin to allow features such as unveil effects. Below has a 300ms fade in with a loading gif for percieved page speed. Min height and width set below to avoid page jump */
 
-/* .lazyload,
+.lazyload,
 .lazyloading {
 	min-height: 467px;
   min-width: 700px;
-} */
+}
 
 .lazyload {
 	opacity: 0;
